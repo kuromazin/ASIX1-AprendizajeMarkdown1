@@ -40,4 +40,4 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ### Como poner imagenes
 
-![Big Bass Bonanza](C:\_repositorios GIT\ASIX1-AprendizajeMarkdown1)
+![Big Bass Bonanza](https://github.com/kuromazin/ASIX1-AprendizajeMarkdown1/blob/main/cool.jpg)
