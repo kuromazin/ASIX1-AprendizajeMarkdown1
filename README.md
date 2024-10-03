@@ -41,3 +41,11 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 ### Como poner imagenes
 
 ![Big Bass Bonanza](https://github.com/kuromazin/ASIX1-AprendizajeMarkdown1/blob/main/cool.jpg)
+
+### Tablitas
+
+|Titulo 1 | Titulo 2 |Titulo 3 |
+|----------|:----------------:|-------------------------|
+|SMX2 |Curso 2324|25|
+|ASIX1|Curso 2425|33|
+|DAW2|Curso 2425|222|
