@@ -18,8 +18,26 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 3. Tercer punto de la lista
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
 
+**Como mostrar codigo en un repositorio**
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
 
+### Poner links
 
-* Primer punto de lista desordenada
-* Segundo punto de lista desordenada
-* Tercer punto de lista desordenada
+[Mi Github](https://github.com/kuromazin/ASIX1-AprendizajeMarkdown1 "Titulo Random " )
+
+### Como poner imagenes
+
+![Big Bass Bonanza](C:\_repositorios GIT\ASIX1-AprendizajeMarkdown1)
